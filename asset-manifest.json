@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/herman-woo/home-app.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/herman-woo/home-app.git/static/js/main.177cb413.chunk.js",
+    "main.js.map": "/herman-woo/home-app.git/static/js/main.177cb413.chunk.js.map",
+    "runtime-main.js": "/herman-woo/home-app.git/static/js/runtime-main.ab861a0f.js",
+    "runtime-main.js.map": "/herman-woo/home-app.git/static/js/runtime-main.ab861a0f.js.map",
+    "static/js/2.3cdbf2f0.chunk.js": "/herman-woo/home-app.git/static/js/2.3cdbf2f0.chunk.js",
+    "static/js/2.3cdbf2f0.chunk.js.map": "/herman-woo/home-app.git/static/js/2.3cdbf2f0.chunk.js.map",
+    "static/js/3.4d650cac.chunk.js": "/herman-woo/home-app.git/static/js/3.4d650cac.chunk.js",
+    "static/js/3.4d650cac.chunk.js.map": "/herman-woo/home-app.git/static/js/3.4d650cac.chunk.js.map",
+    "index.html": "/herman-woo/home-app.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/herman-woo/home-app.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.3cdbf2f0.chunk.js.LICENSE.txt": "/herman-woo/home-app.git/static/js/2.3cdbf2f0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/herman-woo/home-app.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab861a0f.js",
+    "static/js/2.3cdbf2f0.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.177cb413.chunk.js"
+  ]
+}
